@@ -1,0 +1,445 @@
+==Presidential age-related data==
+
+{| class="sortable wikitable"
+|-
+! scope="col" rowspan=2 | {{Abbr|No.|Order of presidency}}
+! scope="col" rowspan=2 | President
+! scope="col" rowspan=2 | Born
+! scope="col" rowspan=2 | Age at<br>{{nowrap|start of presidency}}
+! scope="col" rowspan=2 | Age at<br>{{nowrap|end of presidency}}
+! scope="col" rowspan=2 | {{nowrap|Post-presidency}}<br>timespan
+! scope="col" colspan=2 | Lifespan
+|-
+! scope="col" | Died
+! scope="col" | Age
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}1
+| {{sortname|George|Washington}}
+| {{dts|1732|2|22|abbr=on}}{{efn|name=calendar|Birthdate as changed to [[Calendar (New Style) Act 1750|New Style]].}}
+| {{ayd|1732|2|22|1789|4|30}}<br>{{dts|1789|4|30|abbr=on}}
+| {{ayd|1732|2|22|1797|3|4}}<br>{{dts|1797|3|4|abbr=on}}
+| {{ayd|1797|3|4|1799|12|14}}
+| {{dts|1799|12|14|abbr=on}}
+| {{ayd|1732|2|22|1799|12|14}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}2
+| {{sortname|John|Adams}}
+| {{dts|1735|10|30|abbr=on}}{{efn|name=calendar|Birthdate as changed to [[Calendar (New Style) Act 1750|New Style]].}}
+| {{nowrap|{{ayd|1735|10|30|1797|3|4}}}}<br>{{dts|1797|3|4|abbr=on}}
+| {{nowrap|{{ayd|1735|10|30|1801|3|4}}}}<br>{{dts|1801|3|4|abbr=on}}
+| {{nowrap|{{ayd|1801|3|4|1826|7|4}}}}
+| <span style="display:none">{{dts|1826|7|5}}</span>{{dts|1826|7|4|abbr=on}}
+| {{nowrap|{{ayd|1735|10|30|1826|7|4}}}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}3
+| {{sortname|Thomas|Jefferson}}
+| {{dts|1743|4|13|abbr=on}}{{efn|name=calendar|Birthdate as changed to [[Calendar (New Style) Act 1750|New Style]].}}
+| {{ayd|1743|4|13|1801|3|4}}<br>{{dts|1801|3|4|abbr=on}}
+| {{ayd|1743|4|13|1809|3|4}}<br>{{dts|1809|3|4|abbr=on}}
+| {{ayd|1809|3|4|1826|7|4}}
+| {{dts|1826|7|4|abbr=on}}
+| {{ayd|1743|4|13|1826|7|4}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}4
+| {{sortname|James|Madison}}
+| {{dts|1751|3|16|abbr=on}}{{efn|name=calendar|Birthdate as changed to [[Calendar (New Style) Act 1750|New Style]].}}
+| {{ayd|1751|3|16|1809|3|4}}<br>{{dts|1809|3|4|abbr=on}}
+| {{ayd|1751|3|16|1817|3|4}}<br>{{dts|1817|3|4|abbr=on}}
+| {{ayd|1817|3|4|1836|6|28}}
+| {{dts|1836|6|28|abbr=on}}
+| {{ayd|1751|3|16|1836|6|28}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}5
+| {{sortname|James|Monroe}}
+| {{dts|1758|4|28|abbr=on}}
+| {{ayd|1758|4|28|1817|3|4}}<br>{{dts|1817|3|4|abbr=on}}
+| {{ayd|1758|4|28|1825|3|4}}<br>{{dts|1825|3|4|abbr=on}}
+| {{ayd|1825|3|4|1831|7|4}}
+| {{dts|1831|7|4|abbr=on}}
+| {{ayd|1758|4|28|1831|7|4}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}6
+| {{sortname|John Quincy|Adams}}
+| {{dts|1767|7|11|abbr=on}}
+| {{ayd|1767|7|11|1825|3|4}}<br>{{dts|1825|3|4|abbr=on}}
+| {{ayd|1767|7|11|1829|3|4}}<br>{{dts|1829|3|4|abbr=on}}
+| {{ayd|1829|3|4|1848|2|23}}
+| {{dts|1848|2|23|abbr=on}}
+| {{ayd|1767|7|11|1848|2|23}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}7
+| {{sortname|Andrew|Jackson}}
+| {{dts|1767|3|15|abbr=on}}
+| {{ayd|1767|3|15|1829|3|4}}<br>{{dts|1829|3|4|abbr=on}}
+| {{ayd|1767|3|15|1837|3|4}}<br>{{dts|1837|3|4|abbr=on}}
+| {{ayd|1837|3|4|1845|6|8}}
+| {{dts|1845|6|8|abbr=on}}
+| {{ayd|1767|3|15|1845|6|8}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}8
+| {{sortname|Martin Van|Buren}}
+| {{dts|1782|12|5|abbr=on}}
+| {{ayd|1782|12|5|1837|3|4}}<br>{{dts|1837|3|4|abbr=on}}
+| {{ayd|1782|12|5|1841|3|4}}<br>{{dts|1841|3|4|abbr=on}}
+| {{ayd|1841|3|4|1862|7|24}}
+| {{dts|1862|7|24|abbr=on}}
+| {{ayd|1782|12|5|1862|7|24}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | {{0}}9
+| {{sortname|William Henry|Harrison}}
+| {{dts|1773|2|9|abbr=on}}
+| {{ayd|1773|2|9|1841|3|4}}<br>{{dts|1841|3|4|abbr=on}}
+| {{ayd|1773|2|9|1841|4|4}}<br> {{dts|1841|4|4|abbr=on}}
+| <span style="display:none">00,001</span>0 days{{efn|name=died|Died in office}}
+| {{dts|1841|4|4|abbr=on}}
+| {{ayd|1773|2|9|1841|4|4}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 10
+| {{sortname|John|Tyler}}
+| {{dts|1790|3|29|abbr=on}}
+| {{ayd|1790|3|29|1841|4|4}}<br>{{dts|1841|4|4|abbr=on}}
+| {{ayd|1790|3|29|1845|3|4}}<br>{{dts|1845|3|4|abbr=on}}
+| {{ayd|1845|3|4|1862|1|18}}
+| {{dts|1862|1|18|abbr=on}}
+| {{ayd|1790|3|29|1862|1|18}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 11
+| {{sortname|James K.|Polk}}
+| {{dts|1795|11|2|abbr=on}}
+| {{ayd|1795|11|2|1845|3|4}}<br>{{dts|1845|3|4|abbr=on}}
+| {{ayd|1795|11|2|1849|3|4}}<br>{{dts|1849|3|4|abbr=on}}
+| {{ayd|1849|3|4|1849|6|15}}
+| {{dts|1849|6|15|abbr=on}}
+| {{ayd|1795|11|2|1849|6|15}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 12
+| {{sortname|Zachary|Taylor}}
+| {{dts|1784|11|24|abbr=on}}
+| {{ayd|1784|11|24|1849|3|4}}<br>{{dts|1849|3|4|abbr=on}}
+| {{ayd|1784|11|24|1850|7|9}}<br>{{dts|1850|7|9|abbr=on}}
+| <span style="display:none">00,003</span>0 days{{efn|name=died}}
+| {{dts|1850|7|9|abbr=on}}
+| {{ayd|1784|11|24|1850|7|9}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 13
+| {{sortname|Millard|Fillmore}}
+| {{dts|1800|1|7|abbr=on}}
+| {{ayd|1800|1|7|1850|7|9}}<br>{{dts|1850|7|9|abbr=on}}
+| {{ayd|1800|1|7|1853|3|4}}<br>{{dts|1853|3|4|abbr=on}}
+| {{ayd|1853|3|4|1874|3|8}}
+| {{dts|1874|3|8|abbr=on}}
+| {{ayd|1800|1|7|1874|3|8}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 14
+| {{sortname|Franklin|Pierce}}
+| {{dts|1804|11|23|abbr=on}}
+| {{ayd|1804|11|23|1853|3|4}}<br>{{dts|1853|3|4|abbr=on}}
+| {{ayd|1804|11|23|1857|3|4}}<br>{{dts|1857|3|4|abbr=on}}
+| {{ayd|1857|3|4|1869|10|8}}
+| {{dts|1869|10|8|abbr=on}}
+| {{ayd|1804|11|23|1869|10|8}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 15
+| {{sortname|James|Buchanan}}
+| {{dts|1791|4|23|abbr=on}}
+| {{ayd|1791|4|23|1857|3|4}}<br>{{dts|1857|3|4|abbr=on}}
+| {{ayd|1791|4|23|1861|3|4}}<br>{{dts|1861|3|4|abbr=on}}
+| {{ayd|1861|3|4|1868|6|1}}
+| {{dts|1868|6|1|abbr=on}}
+| {{ayd|1791|4|23|1868|6|1}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 16
+| {{sortname|Abraham|Lincoln}}
+| {{dts|1809|2|12|abbr=on}}
+| {{ayd|1809|2|12|1861|3|4}}<br>{{dts|1861|3|4|abbr=on}}
+| {{ayd|1809|2|12|1865|4|15}}<br>{{dts|1865|4|15|abbr=on}}
+| <span style="display:none">00,006</span>0 days{{efn|name=died}}
+| {{dts|1865|4|15|abbr=on}}
+| {{ayd|1809|2|12|1865|4|15}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 17
+| {{sortname|Andrew|Johnson}}
+| {{dts|1808|12|29|abbr=on}}
+| {{ayd|1808|12|29|1865|4|15}}<br>{{dts|1865|4|15|abbr=on}}
+| {{ayd|1808|12|29|1869|3|4}}<br>{{dts|1869|3|4|abbr=on}}
+| {{ayd|1869|3|4|1875|7|31}}
+| {{dts|1875|7|31|abbr=on}}
+| {{ayd|1808|12|29|1875|7|31}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 18
+| {{sortname|Ulysses S.|Grant}}
+| {{dts|1822|4|27|abbr=on}}
+| {{ayd|1822|4|27|1869|3|4}}<br>{{dts|1869|3|4|abbr=on}}
+| {{ayd|1822|4|27|1877|3|4}}<br>{{dts|1877|3|4|abbr=on}}
+| {{ayd|1877|3|4|1885|7|23}}
+| {{dts|1885|7|23|abbr=on}}
+| {{ayd|1822|4|27|1885|7|23}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 19
+| {{sortname|Rutherford B.|Hayes}}
+| {{dts|1822|10|4|abbr=on}}
+| {{ayd|1822|10|4|1877|3|4}}<br>{{dts|1877|3|4|abbr=on}}
+| {{ayd|1822|10|4|1881|3|4}}<br>{{dts|1881|3|4|abbr=on}}
+| {{ayd|1881|3|4|1893|1|17}}
+| {{dts|1893|1|17|abbr=on}}
+| {{ayd|1822|10|4|1893|1|17}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 20
+| {{sortname|James A.|Garfield}}
+| {{dts|1831|11|19|abbr=on}}
+| {{ayd|1831|11|19|1881|3|4}}<br>{{dts|1881|3|4|abbr=on}}
+| {{ayd|1831|11|19|1881|9|19}}<br>{{dts|1881|9|19|abbr=on}}
+| <span style="display:none">00,002</span>0 days{{efn|name=died}}
+| {{dts|1881|9|19|abbr=on}}
+| {{ayd|1831|11|19|1881|9|19}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 21
+| {{sortname|Chester A.|Arthur}}
+| {{dts|1829|10|5|abbr=on}}
+| {{ayd|1829|10|5|1881|9|19}}<br>{{dts|1881|9|19|abbr=on}}
+| {{ayd|1829|10|5|1885|3|4}}<br>{{dts|1885|3|4|abbr=on}}
+| {{ayd|1885|3|4|1886|11|18}}
+| {{dts|1886|11|18|abbr=on}}
+| {{ayd|1829|10|5|1886|11|18}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 22
+| {{sortname|Grover|Cleveland}}
+| {{dts|1837|3|18|abbr=on}}
+| {{ayd|1837|3|18|1885|3|4}}<br>{{dts|1885|3|4|abbr=on}}
+| {{ayd|1837|3|18|1889|3|4}}<br>{{dts|1889|3|4|abbr=on}}
+| {{ayd|1889|3|4|1893|3|4}}{{efn|name=cleveland 1|Cleveland was president for two non-consecutive terms; this is his first post-presidential retirement, between his terms (1889–1893).}}
+| {{dts|1908|6|24|abbr=on}}
+| {{ayd|1837|3|18|1908|6|24}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 23
+| {{sortname|Benjamin|Harrison}}
+| {{dts|1833|8|20|abbr=on}}
+| {{ayd|1833|8|20|1889|3|4}}<br>{{dts|1889|3|4|abbr=on}}
+| {{ayd|1833|8|20|1893|3|4}}<br>{{dts|1893|3|4|abbr=on}}
+| {{ayd|1893|3|4|1901|3|13}}
+| {{dts|1901|3|13|abbr=on}}
+| {{ayd|1833|8|20|1901|3|13}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 24
+| {{sortname|Grover|Cleveland}}
+| {{dts|1837|3|18|abbr=on}}
+| {{ayd|1837|3|18|1893|3|4}}<br>{{dts|1893|3|4|abbr=on}}
+| {{ayd|1837|3|18|1897|3|4}}<br>{{dts|1897|3|4|abbr=on}}
+| {{ayd|1897|3|4|1908|6|24}}{{efn|name=cleveland 2|Cleveland was president for two non-consecutive terms; this is his post-presidential retirement, after his second term (1897–1908).}}
+| {{dts|1908|6|24|abbr=on}}
+| {{ayd|1837|3|18|1908|6|24}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 25
+| {{sortname|William|McKinley}}
+| {{dts|1843|1|29|abbr=on}}
+| {{ayd|1843|1|29|1897|3|4}}<br>{{dts|1897|3|4|abbr=on}}
+| {{ayd|1843|1|29|1901|9|14}}<br>{{dts|1901|9|14|abbr=on}}
+| <span style="display:none">00,007</span>0 days{{efn|name=died}}
+| {{dts|1901|9|14|abbr=on}}
+| {{ayd|1843|1|29|1901|9|14}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 26
+| {{sortname|Theodore|Roosevelt}}
+| {{dts|1858|10|27|abbr=on}}
+| {{ayd|1858|10|27|1901|9|14}}<br>{{dts|1901|9|14|abbr=on}}
+| {{ayd|1858|10|27|1909|3|4}}<br>{{dts|1909|3|4|abbr=on}}
+| {{ayd|1909|3|4|1919|1|6}}
+| {{dts|1919|1|6|abbr=on}}
+| {{ayd|1858|10|27|1919|1|6}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 27
+| {{sortname|William Howard|Taft}}
+| {{dts|1857|9|15|abbr=on}}
+| {{ayd|1857|9|15|1909|3|4}}<br>{{dts|1909|3|4|abbr=on}}
+| {{ayd|1857|9|15|1913|3|4}}<br>{{dts|1913|3|4|abbr=on}}
+| {{ayd|1913|3|4|1930|3|8}}
+| {{dts|1930|3|8|abbr=on}}
+| {{ayd|1857|9|15|1930|3|8}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 28
+| {{sortname|Woodrow|Wilson}}
+| {{dts|1856|12|28|abbr=on}}
+| {{ayd|1856|12|28|1913|3|4}}<br>{{dts|1913|3|4|abbr=on}}
+| {{ayd|1856|12|28|1921|3|4}}<br>{{dts|1921|3|4|abbr=on}}
+| {{ayd|1921|3|4|1924|2|3}}
+| {{dts|1924|2|3|abbr=on}}
+| {{ayd|1856|12|28|1924|2|3}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 29
+| {{sortname|Warren G.|Harding}}
+| {{dts|1865|11|2|abbr=on}}
+| {{ayd|1865|11|2|1921|3|4}}<br>{{dts|1921|3|4|abbr=on}}
+| {{ayd|1865|11|2|1923|8|2}}<br>{{dts|1923|8|2|abbr=on}}
+| <span style="display:none">00,004</span>0 days{{efn|name=died}}
+| {{dts|1923|8|2|abbr=on}}
+| {{ayd|1865|11|2|1923|8|2}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 30
+| {{sortname|Calvin|Coolidge}}
+| {{dts|1872|7|4|abbr=on}}
+| {{ayd|1872|7|4|1923|8|2}}<br>{{dts|1923|8|2|abbr=on}}
+| {{ayd|1872|7|4|1929|3|4}}<br>{{dts|1929|3|4|abbr=on}}
+| {{ayd|1929|3|4|1933|1|5}}
+| {{dts|1933|1|5|abbr=on}}
+| {{ayd|1872|7|4|1933|1|5}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 31
+| {{sortname|Herbert|Hoover}}
+| {{dts|1874|8|10|abbr=on}}
+| {{ayd|1874|8|10|1929|3|4}}<br>{{dts|1929|3|4|abbr=on}}
+| {{ayd|1874|8|10|1933|3|4}}<br>{{dts|1933|3|4|abbr=on}}
+| {{ayd|1933|3|4|1964|10|20}}
+| {{dts|1964|10|20|abbr=on}}
+| {{ayd|1874|8|10|1964|10|20}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 32
+| nowrap | {{sortname|Franklin D.|Roosevelt}}
+| {{dts|1882|1|30|abbr=on}}
+| {{ayd|1882|1|30|1933|3|4}}<br>{{dts|1933|3|4|abbr=on}}
+| {{ayd|1882|1|30|1945|4|12}}<br>{{dts|1945|4|12|abbr=on}}
+| <span style="display:none">00,008</span>0 days{{efn|name=died}}
+| {{dts|1945|4|12|abbr=on}}
+| {{ayd|1882|1|30|1945|4|12}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 33
+| {{sortname|Harry S.|Truman}}
+| {{dts|1884|5|8|abbr=on}}
+| {{ayd|1884|5|8|1945|4|12}}<br>{{dts|1945|4|12|abbr=on}}
+| {{ayd|1884|5|8|1953|1|20}}<br>{{dts|1953|1|20|abbr=on}}
+| {{ayd|1953|1|20|1972|12|26}}
+| {{dts|1972|12|26|abbr=on}}
+| {{ayd|1884|5|8|1972|12|26}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 34
+| nowrap | {{sortname|Dwight D.|Eisenhower}}
+| {{dts|1890|10|14|abbr=on}}
+| {{ayd|1890|10|14|1953|1|20}}<br>{{dts|1953|1|20|abbr=on}}
+| {{ayd|1890|10|14|1961|1|20}}<br>{{dts|1961|1|20|abbr=on}}
+| {{ayd|1961|1|20|1969|3|28}}
+| {{dts|1969|3|28|abbr=on}}
+| {{ayd|1890|10|14|1969|3|28}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 35
+| {{sortname|John F.|Kennedy}}
+| {{dts|1917|5|29|abbr=on}}
+| {{ayd|1917|5|29|1961|1|20}}<br>{{dts|1961|1|20|abbr=on}}
+| {{ayd|1917|5|29|1963|11|22}}<br>{{dts|1963|11|22|abbr=on}}
+| <span style="display:none">00,005</span>0 days{{efn|name=died}}
+| {{dts|1963|11|22|abbr=on}}
+| {{ayd|1917|5|29|1963|11|22}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 36
+| {{sortname|Lyndon B.|Johnson}}
+| {{dts|1908|8|27|abbr=on}}
+| {{ayd|1908|8|27|1963|11|22}}<br>{{dts|1963|11|22|abbr=on}}
+| {{ayd|1908|8|27|1969|1|20}}<br>{{dts|1969|1|20|abbr=on}}
+| {{ayd|1969|1|20|1973|1|22}}
+| {{dts|1973|1|22|abbr=on}}
+| {{ayd|1908|8|27|1973|1|22}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 37
+| {{sortname|Richard|Nixon}}
+| {{dts|1913|1|9|abbr=on}}
+| {{ayd|1913|1|9|1969|1|20}}<br>{{dts|1969|1|20|abbr=on}}
+| {{ayd|1913|1|9|1974|8|9}}<br>{{dts|1974|8|9|abbr=on}}{{efn|Resigned from office.}}
+| {{ayd|1974|8|9|1994|4|22}}
+| {{dts|1994|4|22|abbr=on}}
+| {{ayd|1913|1|9|1994|4|22}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 38
+| {{sortname|Gerald|Ford}}
+| {{dts|1913|7|14|abbr=on}}
+| {{ayd|1913|7|14|1974|8|9}}<br>{{dts|1974|8|9|abbr=on}}
+| {{ayd|1913|7|14|1977|1|20}}<br>{{dts|1977|1|20|abbr=on}}
+| {{ayd|1977|1|20|2006|12|26}}
+| {{dts|2006|12|26|abbr=on}}
+| {{ayd|1913|7|14|2006|12|26}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 39
+| {{sortname|Jimmy|Carter}}
+| {{dts|1924|10|1|abbr=on}}
+| {{ayd|1924|10|1|1977|1|20}}<br>{{dts|1977|1|20|abbr=on}}
+| {{ayd|1924|10|1|1981|1|20}}<br>{{dts|1981|1|20|abbr=on}}
+|''{{ayd|1981|1|20}}''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1924|10|1}}''
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 40
+| {{sortname|Ronald|Reagan}}
+| {{dts|1911|2|6|abbr=on}}
+| {{ayd|1911|2|6|1981|1|20}}<br>{{dts|1981|1|20|abbr=on}}
+| {{ayd|1911|2|6|1989|1|20}}<br>{{dts|1989|1|20|abbr=on}}
+| {{ayd|1989|1|20|2004|6|5}}
+| {{dts|2004|6|5|abbr=on}}
+| {{ayd|1911|2|6|2004|6|5}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 41
+| {{sortname|George H. W.|Bush}}
+| {{dts|1924|6|12|abbr=on}}
+| {{ayd|1924|6|12|1989|1|20}}<br>{{dts|1989|1|20|abbr=on}}
+| {{ayd|1924|6|12|1993|1|20}}<br>{{dts|1993|1|20|abbr=on}}
+| {{ayd|1993|1|20|2018|11|30}}
+| {{dts|2018|11|30|abbr=on}}
+| {{ayd|1924|6|12|2018|11|30}}
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 42
+| {{sortname|Bill|Clinton}}
+| {{dts|1946|8|19|abbr=on}}
+| {{ayd|1946|8|19|1993|1|20}}<br>{{dts|1993|1|20|abbr=on}}
+| {{ayd|1946|8|19|2001|1|20}}<br>{{dts|2001|1|20|abbr=on}}
+|''{{ayd|2001|1|20}}''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1946|8|19}}''
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 43
+| {{sortname|George W.|Bush}}
+| {{dts|1946|7|6|abbr=on}}
+| {{ayd|1946|7|6|2001|1|20}}<br>{{dts|2001|1|20|abbr=on}}
+| {{ayd|1946|7|6|2009|1|20}}<br>{{dts|2009|1|20|abbr=on}}
+|''{{ayd|2009|1|20}}''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1946|7|6}}''
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 44
+| {{sortname|Barack|Obama}}
+| {{dts|1961|8|4|abbr=on}}
+| {{ayd|1961|8|4|2009|1|20}}<br>{{dts|2009|1|20|abbr=on}}
+| {{ayd|1961|8|4|2017|1|20}}<br>{{dts|2017|1|20|abbr=on}}
+|''{{ayd|2017|1|20}}''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1961|8|4}}''
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 45
+| {{sortname|Donald|Trump}}
+| {{dts|1946|6|14|abbr=on}}
+| {{ayd|1946|6|14|2017|1|20}}<br>{{dts|2017|1|20|abbr=on}}
+| {{ayd|1946|6|14|2021|1|20}}<br>{{dts|2021|1|20|abbr=on}}
+|''{{ayd|2021|1|20}}''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1946|6|14}}''
+|- style="text-align: left; background:#FFFFFF"
+! scope="row" | 46
+| {{sortname|Joe|Biden}}
+| {{dts|1942|11|20|abbr=on}}
+| {{ayd|1942|11|20|2021|1|20}}<br>{{dts|2021|1|20|abbr=on}}
+| <span style="display:none">{{ayd|1942|11|20}}</span>''(incumbent)''
+| ''(incumbent)''
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+| ''{{ayd|1942|11|20}}''
+|- style="text-align: left; background:#FFFFFF"
+! rowspan=2 | <abbr title="Order of presidency">#</abbr>
+! rowspan=2 | President
+! rowspan=2 | Born
+! rowspan=2 | Age at<br>{{nowrap|start of presidency}}
+! rowspan=2 | Age at<br>{{nowrap|end of presidency}}
+! rowspan=2 | {{nowrap|Post-presidency}}<br>timespan
+! Died !! Age
+|- 
+! colspan=2 | Lifespan
+|}
+
+===Notes===
+{{notelist}}
+
+{{anchor|oldest}}
+

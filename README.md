@@ -27,7 +27,8 @@ The final CSV file can then be fed to [DataWrapper](https://datawrapper.de) to g
 
 Done with [DataWrapper](https://datawrapper.de):
 
-<iframe title="US Presidents: Age vs Life Expectancy" aria-label="Interactive line chart" id="datawrapper-chart-59UZG" src="https://datawrapper.dwcdn.net/59UZG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+![alt text](images/chart-1.png)
 
-<iframe title="US Presidents: Beyond Life Expectancy" aria-label="Interactive line chart" id="datawrapper-chart-pSATD" src="https://datawrapper.dwcdn.net/pSATD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+![alt text](images/chart-2.png)
 
+Interactive versions: see [Long Live the President?](https://medium.com/@pescetti/long-live-the-president-2f82d31adbfc).

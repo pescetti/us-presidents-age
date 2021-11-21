@@ -12,7 +12,7 @@ $ conda activate us-presidents-age
 ```
 
 Then run:
-- `$ clean-wikipedia-data.sh` to quickly clean up Wikipedia data
+- `$ ./clean-wikipedia-data.sh` to quickly clean up Wikipedia data
 - `$ python extract-presidents.py` to (re)generate `data/presidents.csv`
 - `$ python merge-data.py` to (re)generate `data/presidents-age-life-expectancy.csv`
 
